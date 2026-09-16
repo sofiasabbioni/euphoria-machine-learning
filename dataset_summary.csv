@@ -1,0 +1,26 @@
+,dtype,missing_pct,n_unique
+referral_friends,float64,9.97,6
+water_sources,float64,10.01,15
+shelters,float64,10.16,9
+fauna_friendly,object,64.66,4
+island_size,float64,9.96,2484
+creation_time,float64,10.08,69707
+region,object,10.24,51
+happiness_metric,object,9.98,2
+features,object,24.58,9404
+happiness_index,float64,10.09,3605
+loyalty_score,float64,10.0,10
+total_refunds_requested,float64,9.84,10
+trade_goods,object,9.87,1
+x_coordinate,float64,10.05,6988
+avg_time_in_euphoria,float64,10.02,11994
+y_coordinate,float64,10.15,7034
+island_id,float64,10.02,89453
+entry_fee,object,10.18,2
+nearest_city,object,10.29,2877
+creation_datetime,"datetime64[ns, UTC]",10.08,69707
+creation_year,float64,10.08,2
+creation_month,float64,10.08,12
+amenity_count,int64,0.0,19
+cats_allowed,int64,0.0,2
+dogs_allowed,int64,0.0,2
